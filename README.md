@@ -15,7 +15,7 @@ Salient features of the code are :-
    proves to be a critical optimization in the early stage of the code.
 
 
-Repo contents :
+Repository contents :
 
 1. A c++ code to solve an 8 puzzle
 2. A sample input to check the code against testcases
